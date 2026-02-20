@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Akhilesh</h2>
-<h4 align="center">Full Stack Web Developer and GenAI Builder</h4>
+<h4 align="center">Full Stack Dev | DevOps | GenAI Builder</h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yadavakhileshh&label=Profile%20views&color=0e75b6&style=flat" alt="yadavakhileshh" />
@@ -8,9 +8,9 @@
 ---
 
 ### About me
-I work on full stack applications and AI-driven tools.  
-I enjoy building practical solutions, experimenting with automation, and exploring modern web technologies.  
-One of my current projects is Linkshala, a simple platform for curated development resources.
+I build, deploy, and automate. From full stack web apps to CI/CD pipelines and AI-powered tools — I enjoy working across the entire product lifecycle.
+
+Currently exploring the overlap between modern DevOps practices and generative AI to build smarter, faster, more reliable systems.
 
 **Linkshala:** <a href="https://linkkshala.vercel.app/">link</a>
 
@@ -65,3 +65,5 @@ I like turning ideas into working projects and exploring how AI and automation c
 Most of my work starts from curiosity and grows into something useful.
 
 ---
+
+Let's connect if you're into dev, DevOps, or AI.

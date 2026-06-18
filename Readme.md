@@ -1,69 +1,55 @@
-<h2 align="center">Hi, I'm Akhilesh</h2>
-<h4 align="center">Full Stack Dev | DevOps | GenAI Builder</h4>
+<div align="center">
+  <!-- Dynamic Waving Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=250&section=header&text=Building%20Things&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20•%20Full%20Stack%20•%20Cloud&descAlignY=65&descSize=20" />
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yadavakhileshh&label=Profile%20views&color=0e75b6&style=flat" alt="yadavakhileshh" />
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yadavakhileshh&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
-### About me
-I build, deploy, and automate. From full stack web apps to CI/CD pipelines and AI-powered tools — I enjoy working across the entire product lifecycle.
+<br/>
 
-Currently exploring the overlap between modern DevOps practices and generative AI to build smarter, faster, more reliable systems.
+###  The TL;DR
+<table>
+<tr>
+<td width="55%" valign="top">
+  
+**About Me**<br/>
+Building full-stack applications, AI systems, and cloud-native solutions. <br/><br/>
+I enjoy building products from idea to deployment, whether that's a web application, an LLM-powered product, or the infrastructure behind it.
 
-**Linkshala:** <a href="https://linkkshala.vercel.app/">link</a>
+-  AI Agents, RAG & LLM Applications
+-  Full Stack Development
+-  DevOps & Cloud Infrastructure
+-  Open Source Contributions
+</td>
+<td width="45%" valign="top">
+  
+**Currently Building**<br/>
+-  Agentic AI Applications
+-  RAG Systems & Evaluation Pipelines
+-  Developer Tools & Automation
+-  Open Source Projects
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### Contact
-<a href="https://www.linkedin.com/in/yakhilesh/">LinkedIn</a>
+###  Arsenal & Tech Stack
+<div align="center">
+  <!-- Premium Glassmorphism Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,fastapi&theme=dark" alt="Languages and Frameworks" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=supabase,mongodb,sqlite,docker,aws,githubactions&theme=dark" alt="Database and DevOps" />
+  </a>
+</div>
 
----
+<br/>
 
-### Languages and Tools I use
-<p>
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/framer" width="40"/>
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-
-  <!-- AI / GenAI -->
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/gradio" width="40"/>
-
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-
-  <!-- Cloud -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
-</p>
-
----
-
-### A little more
-I like turning ideas into working projects and exploring how AI and automation can improve the way we build.  
-Most of my work starts from curiosity and grows into something useful.
-
----
-
-Let's connect if you're into dev, DevOps, or AI.
+<div align="center">
+  <i>Let's build something that matters.</i>
+</div>
